@@ -1,3 +1,3 @@
 <?php
-echo "Welcome to OpenShift Online Developer Preview";
+echo "Welcome to Drop";
 echo "<br>To test the database, hit the dbtest.php URL";
